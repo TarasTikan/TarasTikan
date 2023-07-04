@@ -1,7 +1,7 @@
-# Привіт, я Тарас Тікан!
+# Hello, I'm Taras Tikan!
 
-## Про мене
-Я є розробником програмного забезпечення з великим інтересом до веб-розробки та додатків для мобільних пристроїв. Нижче перераховані технології, з якими я працюю:
+## About me
+I am a software developer with a strong interest in web development and mobile applications. Below are the technologies I work with:
 
 - ![HTML](https://img.shields.io/badge/-HTML-orange)
 - ![CSS](https://img.shields.io/badge/-CSS-blue)
@@ -13,13 +13,13 @@
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarasTikan&theme=dark&show_icons=true)
-## Зв'язок
-Я відкритий до спілкування та співпраці. Ви можете знайти мене в соціальних мережах та пошті:
+## Connection
+I am open to communication and cooperation. You can find me on social networks and by mail:
 
-- Електронна пошта: ваша_електронна_пошта@example.com
-- Telegram: [@your_twitter_handle]([https://twitter.com/your_twitter_handle](https://t.me/taras012))
-- LinkedIn: [Ваше ім'я](https://www.linkedin.com/in/taras-tikan-317b7a1a7/)
+- Email: tikantaras1@gmail.com
+- Telegram: [@taras012]([https://twitter.com/your_twitter_handle](https://t.me/taras012))
+- LinkedIn: [Tikan Taras](https://www.linkedin.com/in/taras-tikan-317b7a1a7/)
 
-Якщо у вас є які-небудь запитання або інтересні проекти, не соромтеся зв'язатися зі мною.
+If you have any questions or interesting projects, do not hesitate to contact me.
 
-Дякую за відвідування мого профілю!
+Thanks for visiting my profile!
