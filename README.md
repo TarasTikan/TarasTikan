@@ -3,14 +3,14 @@
 ## Про мене
 Я є розробником програмного забезпечення з великим інтересом до веб-розробки та додатків для мобільних пристроїв. Нижче перераховані технології, з якими я працюю:
 
-- HTML
-- CSS
-- SASS
-- JavaScript
-- React
-- React Native
-- Node.js
-- MongoDB
+- ![HTML](https://img.shields.io/badge/-HTML-orange)
+- ![CSS](https://img.shields.io/badge/-CSS-blue)
+- ![SASS](https://img.shields.io/badge/-SASS-pink)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- ![React](https://img.shields.io/badge/-React-blueviolet)
+- ![React Native](https://img.shields.io/badge/-React_Native-purple)
+- ![Node.js](https://img.shields.io/badge/-Node.js-green)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
 
 ## Зв'язок
 Я відкритий до спілкування та співпраці. Ви можете знайти мене в соціальних мережах та пошті:
