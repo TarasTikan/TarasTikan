@@ -12,7 +12,7 @@
 - ![Node.js](https://img.shields.io/badge/-Node.js-green)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taras&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarasTikan&theme=dark&show_icons=true)
 ## Зв'язок
 Я відкритий до спілкування та співпраці. Ви можете знайти мене в соціальних мережах та пошті:
 
