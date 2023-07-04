@@ -1,7 +1,7 @@
 # Hello, I'm Taras Tikan!
 
 ## About me
-I am a software developer with a strong interest in web development and mobile applications. Below are the technologies I work with:
+I'm a FullStack developer with a strong interest in web development and mobile applications. Below are the technologies I work with::
 
 - ![HTML](https://img.shields.io/badge/-HTML-orange)
 - ![CSS](https://img.shields.io/badge/-CSS-blue)
