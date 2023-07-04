@@ -17,7 +17,7 @@ I am a software developer with a strong interest in web development and mobile a
 I am open to communication and cooperation. You can find me on social networks and by mail:
 
 - Email: tikantaras1@gmail.com
-- Telegram: [Telegram]([https://twitter.com/your_twitter_handle](https://t.me/taras012))
+- Telegram: [Telegram](https://twitter.com/your_twitter_handle](https://t.me/taras012)
 - LinkedIn: [Tikan Taras](https://www.linkedin.com/in/taras-tikan-317b7a1a7/)
 
 If you have any questions or interesting projects, do not hesitate to contact me.
