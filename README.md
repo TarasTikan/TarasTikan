@@ -1,4 +1,4 @@
-# Hello, I'm Taras Tikan!
+#👋 Hello, I'm Taras Tikan!
 
 ## About me
 I'm a FullStack developer with a strong interest in web development and mobile applications. Below are the technologies I work with::
